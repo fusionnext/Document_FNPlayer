@@ -9,7 +9,7 @@ Please refer to [FusionNextInc website](https://fusionnextinc.com "FusionNextInc
 ## Player Introduction
 [Android Player Introduction](https://github.com/fusion-next/Document_FNCamera/wiki/Home_Android)
 
-[Android VR Player Introduction](https://github.com/fusion-next/Document_FNCamera/wiki/Home_Android_VR)
+[Android VR Player Introduction](https://github.com/fusion-next/Document_FNPlayer/wiki/Home_Android_VR)
 
 [iOS Player Introduction](https://github.com/fusion-next/Document_FNCamera/wiki/Home_iOS)
 
